@@ -1,0 +1,5 @@
+
+flask
+faster-whisper
+soundfile
+numpy
